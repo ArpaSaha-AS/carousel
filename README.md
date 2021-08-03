@@ -1,2 +1,2 @@
 # carousel
-Great repository names are short and memorable. Need inspiration? How about sturdy-happiness? 
+ https://arpasaha-as.github.io/carousel/ 
